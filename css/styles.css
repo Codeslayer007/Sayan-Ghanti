@@ -1,0 +1,154 @@
+#title{
+    background-color: #1cc5dc;
+    color: white;
+    text-align: center;
+}
+body{
+    font-family: "Montserrat";
+}
+h1{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    line-height: 1.5;
+    font-size : 3.5rem
+}
+h2{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+
+.heading{
+    font-family: 'Sacramento', cursive;
+    font-size: 500%;
+    font-weight: 1000;
+}
+
+.section-heading{
+    padding : 2%;
+}
+
+/* Buttons  */
+.download-btn{
+    margin: 5% 3% 5% 0;
+}
+
+/* Title img */
+#title{
+    padding: 10% 0;
+}
+.title-img{
+    width: 60%;
+   
+}
+/* skills  */
+
+#skills{
+    background-color: white;
+    padding : 7% 15%;
+    text-align: center;
+
+}
+.feature-box {
+    padding : 0 5%;
+}
+.ele{
+    margin-bottom: 20px;
+    color: #9acfcf;
+}
+.ele:hover{
+    color :#1cc5dc;;
+}
+.f-text{
+    font-weight: 500;
+    color: gray;
+}
+/* achievementss */
+
+#achievements {
+    background-color: #66BFBF;;
+    text-align: center;
+    color: #fff;
+}
+
+.carousel-item {
+    padding: 15% 15%;
+}
+
+.achievements-heading {
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+.achievements-image {
+    width: 40%;
+    margin-top: 10px;
+}
+.star-img{
+    width : 3rem;
+}
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+.press-img {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+/* Experience */
+#Experience {
+    padding: 100px;
+    text-align: center;
+}
+.card-img{
+    width: 10rem;
+}
+
+.Experience-column {
+    padding: 3% 2%;
+}
+
+.price-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/*------------------*/
+#cta {
+    text-align: center;
+    background-color: #66BFBF;
+    padding: 7% 15%;
+    color: white;
+}
+
+
+#footer {
+    background-color: #1196be;
+    text-align: center;
+    color: white;
+    padding: 7% 15%;
+    text-decoration: none;
+}
+
+.footer-link {
+   
+    padding: 3%;
+    color: white;
+}
+.footer-para{
+    margin: 3%;
+    color: white;
+}
+.footer-link:hover{
+    color: turquoise;
+}
